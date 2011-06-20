@@ -1,0 +1,38 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+
+<suite name="Jongo Service Test" verbose="2">
+ 	<parameter name="host"  value="127.0.0.1"/>
+ 	<parameter name="port"  value="9090"/>
+ 	
+ 	
+ 	<test name="Test Jongo" preserve-order="true">
+ 	
+ 		<classes>
+      <class name="de.jongo.test.JongoServiceTest">
+        <methods>
+        	<include name="connect" />
+        	<include name="isAlive" />
+          <include name="insertError" />
+        	<include name="dropData" />
+          <include name="insert" />
+          <include name="remove" />
+          <include name="updateError" />
+          <include name="update" />
+          <include name="find" />
+          <include name="close" />
+        </methods>
+      </class>
+       <class name="de.jongo.test.JongoFindTest">
+        <methods>
+        	<include name="connect" />
+					<include name="dropData" />
+          <include name="insert" />
+          <include name="findAll" />
+          <include name="findBatch" />
+          <include name="findCriteria" />
+          <include name="close" />
+        </methods>
+      </class>
+    </classes>
+	</test>
+</suite>

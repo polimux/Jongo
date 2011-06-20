@@ -1,0 +1,33 @@
+<project name="Jetty-Server" default="war" basedir="../">
+
+  <target name="war" description="--> Creates self-executing war">
+
+  <property name="staging.dir" location="${basedir}/build"/>
+  <property name="webapp.dir" location="${basedir}/public"/>
+
+  <mkdir dir="${staging.dir}"/>
+
+  <copy todir="${staging.dir}">
+    <fileset dir="${webapp.dir}" includes="**/*"/>
+  </copy>
+
+  <unjar dest="${staging.dir}">
+    <fileset dir="lib/jetty-specific"/>
+  </unjar>
+
+  <copy todir="${staging.dir}">
+    <fileset dir="${webapp.dir}/WEB-INF/classes" includes="de/server/TestServer.class"/>
+  </copy>
+
+  <war destfile="myapp.war" webxml="${webapp.dir}/WEB-INF/web.xml">
+    <fileset dir="${staging.dir}" includes="**/*"/>
+    <classes dir="${webapp.dir}/WEB-INF/classes"/>
+    <lib dir="${webapp.dir}/WEB-INF/lib"/>
+    <manifest>
+      <attribute name="Main-Class" value="de.server.TestServer"/>
+    </manifest>
+  </war>
+
+  <delete dir="${staging.dir}"/>
+</target>
+</project>

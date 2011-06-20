@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="thinktank" name="de.jongo.test.JongoFindTest" tests="17" failures="1" timestamp="26 Apr 2011 16:51:12 GMT" time="1.946" errors="0">
+  <testcase name="connect" time="0.1" classname="de.jongo.test.JongoServiceTest"/>
+  <testcase name="isAlive" time="0.049" classname="de.jongo.test.JongoServiceTest"/>
+  <testcase name="insertError" time="0.057" classname="de.jongo.test.JongoServiceTest"/>
+  <testcase name="dropData" time="0.052" classname="de.jongo.test.JongoServiceTest"/>
+  <testcase name="insert" time="0.066" classname="de.jongo.test.JongoServiceTest"/>
+  <testcase name="remove" time="0.048" classname="de.jongo.test.JongoServiceTest"/>
+  <testcase name="updateError" time="0.068" classname="de.jongo.test.JongoServiceTest"/>
+  <testcase name="update" time="0.065" classname="de.jongo.test.JongoServiceTest"/>
+  <testcase name="find" time="0.047" classname="de.jongo.test.JongoServiceTest"/>
+  <testcase name="close" time="0.053" classname="de.jongo.test.JongoServiceTest"/>
+  <testcase name="connect" time="0.046" classname="de.jongo.test.JongoFindTest"/>
+  <testcase name="dropData" time="0.054" classname="de.jongo.test.JongoFindTest"/>
+  <testcase name="insert" time="0.098" classname="de.jongo.test.JongoFindTest"/>
+  <testcase name="findAll" time="0.12" classname="de.jongo.test.JongoFindTest"/>
+  <testcase name="findBatch" time="0.147" classname="de.jongo.test.JongoFindTest">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;40&amp;gt; but was:&amp;lt;150&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<40> but was:<150>
+	at de.jongo.test.JongoFindTest.findBatch(JongoFindTest.java:55)
+... Removed 30 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="findCriteria" time="0.053" classname="de.jongo.test.JongoFindTest"/>
+  <testcase name="close" time="0.045" classname="de.jongo.test.JongoFindTest"/>
+</testsuite>

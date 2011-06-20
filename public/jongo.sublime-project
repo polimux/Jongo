@@ -1,0 +1,485 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rue",
+				"rueckfragen"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"sto",
+				"stoerungen"
+			],
+			[
+				"sele",
+				"selectedRecord"
+			],
+			[
+				"re",
+				"record"
+			],
+			[
+				"on",
+				"on: on (addListener)"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"ex",
+				"explain"
+			],
+			[
+				"e",
+				"explain"
+			],
+			[
+				"ac",
+				"actionParams"
+			],
+			[
+				"extend",
+				"extend: Ext.extend"
+			],
+			[
+				"exten",
+				"extend: Ext.extend"
+			],
+			[
+				"a",
+				"apl: Ext.apply"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/ux/Windows.js",
+			"settings":
+			{
+				"buffer_size": 13775,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/Timer.js",
+			"settings":
+			{
+				"buffer_size": 23696,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/.svn/text-base/Timer.js.svn-base",
+			"settings":
+			{
+				"buffer_size": 10360,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/LPTimer_exploded.js",
+			"settings":
+			{
+				"buffer_size": 29146,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/uxTemplates/BasicTimerFormPanel.js",
+			"settings":
+			{
+				"buffer_size": 6941,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/lennart/Dropbox/workspace/LP Timer 2.1/public/timer.config",
+			"settings":
+			{
+				"buffer_size": 24752,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"file_history":
+	[
+		"/home/lennart/Dropbox/workspace/LP Timer 2.1/public/timer.config",
+		"/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/TimerBackbone.js",
+		"/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/Timer.js",
+		"/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/ux/TimerTree.js",
+		"/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/ux/TimerTabs.js",
+		"/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/LPTimer_exploded.js",
+		"/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/Main.js",
+		"/home/lennart/Dropbox/workspace/LP Timer 2.1/public/Timer.html",
+		"/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/.svn/text-base/Timer.js.svn-base",
+		"/home/lennart/Dropbox/workspace/LP Timer 2.1/public/manifest.json",
+		"/home/lennart/Desktop/ext-3.3.1/examples/test/data-view.css",
+		"/home/lennart/Desktop/ext-3.3.1/examples/test/editWindow.js",
+		"/home/lennart/Desktop/ext-3.3.1/examples/test/contractGrid.js",
+		"/home/lennart/Desktop/ext-3.3.1/examples/test/data-view.js",
+		"/home/lennart/Desktop/ext-3.3.1/examples/test/data-view.html",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/charts/Ext.ux.HighChart.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/mongoStatus/StatusView.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/mongoStatus/MongoStatusWindow.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/util/Ajax.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/LogView.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/Workspace.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/Jongo.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/queries/BasicQueryForm.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/queries/BasicRemoveForm.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/queries/BasicInsertForm.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/QueryTabs.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/index.html",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/montoStatus/StatusView.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/montoStatus/MongoStatusWindow.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/MongoStatusWindow.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/montoStatus/LogView.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/MongoStatusWindow",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/templates/BasicInsertForm.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/jongo.sublime-project",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/templates/BasicCmdForm.js",
+		"/home/lennart/.config/sublime-text-2/Packages/Default/Global.sublime-settings",
+		"/home/lennart/.config/sublime-text-2/Packages/User/Global.sublime-settings",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/jongo.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/TreePagingBar.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/css/style.css",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/DbTree.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/JsonTree.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/ext/ext-all-debug-w-comments.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/ext/adapter/ext/ext-base-debug.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/BasicCmdForm.js",
+		"/home/lennart/Dropbox/workspace/jongo/public/js/ux/BasicQueryForm.js",
+		"/home/lennart/workspace/jongo/public/js/jongo.js",
+		"/home/lennart/workspace/jongo/public/js/ux/DbTree.js",
+		"/home/lennart/workspace/jongo/public/js/ux/Workspace.js",
+		"/home/lennart/workspace/jongo/public/js/DbTree.js",
+		"/home/lennart/workspace/jongo/public/js/DB_Tree.js",
+		"/home/lennart/.config/sublime-text-2/Packages/HTML/HTML.sublime-completions",
+		"/home/lennart/.config/sublime-text-2/Packages/HTML/html_completions.py",
+		"/home/lennart/.config/sublime-text-2/Packages/Default/comment.py",
+		"/home/lennart/Desktop/Sublime Text 2/test.js",
+		"/home/lennart/.config/sublime-text-2/Packages/Java/Java.tmLanguage",
+		"/home/lennart/.config/sublime-text-2/Packages/ExtJs/info.tmLanguage",
+		"/home/lennart/.config/sublime-text-2/Packages/Default",
+		"/home/lennart/Desktop/Sublime Text 2/sublime_text",
+		"/home/lennart/.config/sublime-text-2/Packages/ExtJs/Extend Block: config.tmSnippet",
+		"/home/lennart/.config/sublime-text-2/Packages/extJs/Snippets/New Snippet4.tmSnippet",
+		"/home/lennart/.config/sublime-text-2/Packages/extJs/Snippets/New Snippet3.tmSnippet",
+		"/home/lennart/.config/sublime-text-2/Packages/extJs/ExtJS (JavaScript).tmLanguage"
+	],
+	"find_in_files":
+	{
+		"include_history":
+		[
+			""
+		],
+		"location_history":
+		[
+			"/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js",
+			"/home/lennart/.config/sublime-text-2/Packages/Default",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"createNewProtokoll",
+			"_gevoCount",
+			"len",
+			"nStr",
+			"setG",
+			"getGevo",
+			"_gevoCount",
+			"_gevo",
+			"\"value\"",
+			"messungsId",
+			"_gevoCount",
+			"console.info",
+			"console",
+			"keine",
+			"Rückfrage",
+			"console",
+			"add",
+			"addAk",
+			"ds",
+			"console",
+			"chartConfig",
+			"renderTo",
+			"render",
+			"renderTo",
+			"isCrossDomain",
+			"contextPath",
+			"JG.Util",
+			" JG.Util.getC",
+			"console",
+			"encodeURIComponent",
+			"serializeForm",
+			"log",
+			"store",
+			"api",
+			"autocomplete",
+			"*.py",
+			"include"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"name\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	{
+		"mount_points":
+		[
+			"/home/lennart/Dropbox/workspace/jongo/public",
+			"/home/lennart/Desktop/ext-3.3.1/examples/test",
+			"/home/lennart/Dropbox/workspace/LP Timer 2.1/public"
+		]
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/ux/Windows.js",
+					"settings":
+					{
+						"buffer_size": 13775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5638,
+								5638
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 3846.33962264,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/Timer.js",
+					"settings":
+					{
+						"buffer_size": 23696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3147,
+								3165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 1264,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/.svn/text-base/Timer.js.svn-base",
+					"settings":
+					{
+						"buffer_size": 10360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1287,
+								1287
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 370.5,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/LPTimer_exploded.js",
+					"settings":
+					{
+						"buffer_size": 29146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/lennart/Dropbox/workspace/LP Timer 2.1/public/js/uxTemplates/BasicTimerFormPanel.js",
+					"settings":
+					{
+						"buffer_size": 6941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5993,
+								5993
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 2479,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/lennart/Dropbox/workspace/LP Timer 2.1/public/timer.config",
+					"settings":
+					{
+						"buffer_size": 24752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24206,
+								24206
+							],
+							[
+								24269,
+								24269
+							],
+							[
+								24339,
+								24339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 500,
+		"selected_items":
+		[
+		],
+		"width": 380
+	},
+	"show_minimap": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233,
+	"status_bar_visible": true
+}

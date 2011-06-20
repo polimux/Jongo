@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="thinktank" name="de.jongo.test.JongoServiceTest" tests="3" failures="0" timestamp="7 Apr 2011 19:59:54 GMT" time="0.323" errors="0">
+  <testcase name="find" time="0.09" classname="de.jongo.test.JongoServiceTest"/>
+  <testcase name="insert" time="0.0020" classname="de.jongo.test.JongoServiceTest">
+    <skipped/>
+  </testcase>
+  <testcase name="isAlive" time="0.042" classname="de.jongo.test.JongoServiceTest"/>
+</testsuite>

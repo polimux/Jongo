@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="thinktank" name="de.jongo.test.JongoServiceTest" tests="1" failures="0" timestamp="7 Apr 2011 20:01:30 GMT" time="0.187" errors="0">
+  <testcase name="find" time="0.093" classname="de.jongo.test.JongoServiceTest"/>
+</testsuite>

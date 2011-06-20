@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [appserver]">
+  <parameter name="port" value="9090"/>
+  <parameter name="host" value="127.0.0.1"/>
+  <test name="Test Jongo(failed)" preserve-order="false">
+    <parameter name="port" value="9090"/>
+    <parameter name="host" value="127.0.0.1"/>
+    <classes>
+      <class name="de.jongo.test.JongoServiceTest">
+        <methods>
+          <include name="isAlive"/>
+          <include name="afterSuite"/>
+          <include name="find"/>
+          <include name="beforeSuite"/>
+          <include name="insert"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
